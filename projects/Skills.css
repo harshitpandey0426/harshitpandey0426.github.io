@@ -1,0 +1,10 @@
+
+  image {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    height: 10%;
+    /* change this value to adjust the height of the images */
+    border: none;
+  }
+  
